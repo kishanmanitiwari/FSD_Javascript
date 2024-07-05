@@ -1,5 +1,5 @@
 class Animal {
-    
+    name;
     constructor(species) {
       this.species = species;
     }
