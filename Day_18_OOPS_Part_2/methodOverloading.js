@@ -1,9 +1,4 @@
 
-// function greet() {
-//     console.log('Good Morning');
-// }
-
-
 function greet() {
     if (arguments.length == 0) {
         console.log('Good Morning');
