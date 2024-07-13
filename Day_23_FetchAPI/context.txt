@@ -1,0 +1,12 @@
+//API
+//Reuest Response Model
+//JSON
+//json method -> PARSE AND STRINGIFY
+//fetch API - returns a promise - Docs
+//AJAX vs AJAJ
+//Project - Fetch API Based
+
+--Assignment Deep (EXTRA)- Dive----------
+//HTTP Methods
+//Status codes
+//Headers - Additional Information
